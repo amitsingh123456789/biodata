@@ -1,0 +1,29 @@
+        
+		body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+        }
+		h1{
+			font-size: 4vw;
+		}
+		p{
+			font-size: 2vw;
+		}
+        .container {
+            margin-top: 3vw;
+			text-align:center;
+        }
+        input {
+            padding: 20px;
+            font-size: 20px;
+        }
+        button {
+			font-weight:bold;
+			margin-top: 20px;
+            padding-top: 20px;
+            font-size: 20px;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 20px;
+        }

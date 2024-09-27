@@ -4,28 +4,28 @@
             background-color: #f4f4f4;
         }
 		h1{
-			font-size: 6vh;
+			font-size: 6vw;
 		}
 		p{
-			font-size: 3vh;
+			font-size: 3vw;
 		}
         .container {
-            margin-top: 4vh;
+            margin-top: 4vw;
 			text-align:center;
         }
         input {
-            padding: 3vh;
-            font-size: 3vh;
+            padding: 3vw;
+            font-size: 3vw;
         }
         button {
 			font-weight:bold;
-			margin-top: 3vh;
-            padding: 3vh;
-            font-size: 4vh;
+			margin-top: 3vw;
+            padding: 3vw;
+            font-size: 4vw;
         }
         .message {
-            margin-top: 2vh;
-            font-size: 3vh;
+            margin-top: 2vw;
+            font-size: 3vw;
         }
 
 
